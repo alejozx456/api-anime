@@ -3,3 +3,4 @@ flask-cors
 animeflv
 cloudscraper
 beautifulsoup4
+lxml
